@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshdhobe&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshdhobe" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshdhobe" alt="jayeshdhobe" /></a> </p>
- -->
 - 🔭 I’m currently working on **NewsMonkey [API]**
 
 - 🌱 I’m currently learning **web development 🕸️ and focusing on Full-Stack Development with the MERN stack.**
@@ -19,7 +17,7 @@
 
 - ⚡ Fun fact **Likes to Implement the learning into projects. And also believe in showcasing skills in Public this helps me in getting connected with like-minded learners.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Jayeshdhobe07@gmail.com</h3>
 <p align="left">
 </p>
 
