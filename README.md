@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Likes to Implement the learning into projects. And also believe in showcasing skills in Public this helps me in getting connected with like-minded learners.**
 
-<h3 align="left">Connect with me: Jayeshdhobe07@gmail.com</h3>
+
 <p align="left">
 </p>
 
