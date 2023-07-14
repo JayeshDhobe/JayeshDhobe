@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 How to reach me **Jayeshdhobe07@gmail.com**
+- 📫 How to reach me **Jayeshdhobe7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U3h9tlP8byk-ignRTDr_5xNW9TuL0tty/view?usp=sharing](https://drive.google.com/file/d/1U3h9tlP8byk-ignRTDr_5xNW9TuL0tty/view?usp=sharing)
 
