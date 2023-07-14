@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development 🕸️ and focusing on Full-Stack Development with the MERN stack.**
 
-- 👨‍💻 All of my projects are available at [https://jayeshportfolio.netlify.app/](https://jayeshportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://reactportfo.netlify.app/](https://jayeshportfolio.netlify.app/)
 
 - 💬 Ask me about **ReactJs**
 
