@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshdhobe&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshdhobe" /> </p>
 
-- 🔭 I’m currently working on **NewsMonkey [API]**
-
-- 🌱 I’m currently learning **web development 🕸️ and focusing on Full-Stack Development with the MERN stack.**
 
 - 👨‍💻 All of my projects are available at [https://reactportfo.netlify.app/](https://reactportfo.netlify.app/)
 
